@@ -1,9 +1,7 @@
 # DOM Array Methods
 
+![Screenshot_1](https://user-images.githubusercontent.com/57297709/146916047-3c361b01-7a37-436e-b5f7-1bb3626e1356.jpg)
 
-
-
-Additional description about the project and its features.
 
 ## Built With
 
@@ -14,7 +12,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://suspicious-bell-12b9c0.netlify.app/)
 
 ## Author
 
